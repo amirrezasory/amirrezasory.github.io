@@ -10,6 +10,8 @@
 + Date of birth : 1996/february/6
 + I am a trader and software engineering student
 + location : Karj , I.R.Iran
++ Email :amirreza.sory75@gmail.com
++ tel :amirreza.sory75@gmail.com
 
 
 ### Skill Highlights
