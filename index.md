@@ -11,7 +11,7 @@
 + I am a trader and software engineering student
 + location : Karj , I.R.Iran
 + Email :amirreza.sory75@gmail.com
-+ tel :amirreza.sory75@gmail.com
++ tel : 09057184475
 
 
 ### Skill Highlights
@@ -33,6 +33,22 @@ _ payam Noor University of Lorestan
 ---
 + Persian
 + English
++ Lori
++ Laki
+
+### Individual sharacteristics
+
+---
++ Top PR
++ Sky
++ Kind 
++ Honest
+
+### Human skills
+
+---
++ C++
+
 
 ### Favorites
 
