@@ -9,6 +9,7 @@
 + last name : sory
 + Date of birth : 1996/february/6
 + I am a trader and software engineering student
++ Marital status :single
 + location : Karj , I.R.Iran
 + Email :amirreza.sory75@gmail.com
 + tel : 09057184475
