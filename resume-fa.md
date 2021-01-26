@@ -13,8 +13,8 @@ body{
 + تاریخ تولد : 1374
 + دانشجوی مهندسی نرم افزار 
 + موقعیت مکانی : ایران،کرج
-+  
-amirreza.sory75@gmail.com  
++  amirreza.sory75@gmail.com
+  
 
 
 ### مهارت ها
